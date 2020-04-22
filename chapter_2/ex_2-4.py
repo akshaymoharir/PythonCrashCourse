@@ -1,6 +1,7 @@
 ## Python Crash Course
 
-# Ex 2.4:  
+# Exercise 2.4: Name Cases: 
+#               Store a person's name in a variable, and then print that person's name in lowercase, uppercase, and titlecase.
 
 
 def main():

@@ -1,7 +1,8 @@
 
 ## Python Crash Course
 
-# Ex 2.1: Simple Message: Store a message in a variable, and then print that message.
+# Exercise 2.1: Simple Message: 
+#               Store a message in a variable, and then print that message.
 
 def main():
     message = "Alpha Bravo Charlie.."
