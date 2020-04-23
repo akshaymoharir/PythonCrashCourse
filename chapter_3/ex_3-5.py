@@ -28,6 +28,7 @@ def main():
     # Following person is the new guest to the party
     anotherGuestToInvite = 'Abdul Kalam'
     print(anotherGuestToInvite,"is coming to the party!!")
+    print("Sending second set of invites..")
 
     # Add new gues to the list
     dinnerInvitees.insert(1, anotherGuestToInvite)
@@ -35,7 +36,9 @@ def main():
     # Send another set of invites
     sendInvites(dinnerInvitees)
 
+
 def sendInvites(dinnerInvitees):
+    
     # Send invitation to invitees
     for i in range(len(dinnerInvitees)):
         
